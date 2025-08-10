@@ -18,7 +18,7 @@
 ### 安装步骤
 ```bash
 # 克隆项目仓库
-git clone https://github.com/yourusername/plane-war.git
+[git clone https://github.com/yourusername/plane-war.git](https://github.com/datudouya/coding.git)
 cd plane-war
 # 安装依赖
 pip install pygame
@@ -213,5 +213,5 @@ ROCK_SPAWN_COUNT = 8 # 同时出现的陨石数量
 ---
 **开发者**: 杨昱皓  
 **版本**: 1.0  
-**最后更新**: 2023年10月15日
+**最后更新**: 2025年8月10日
 
